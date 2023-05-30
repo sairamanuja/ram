@@ -4,8 +4,9 @@ public class ADDITION {
         int a = 23;
         int b = 76;
         int c = a + b;
+        int d=a+b;
 
-        System.out.println(c);
+        System.out.println(c+d);
     }
     
 }
