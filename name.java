@@ -10,7 +10,8 @@ public class name {
         String str = sc.next();
 
         System.out.println("hello "  + str + " have a good day");
-        sc.close();
+        sc.close(); 
+        jjljlj
     }
     
 }
